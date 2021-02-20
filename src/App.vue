@@ -28,6 +28,11 @@
               <router-link to="/about">About</router-link>
             </li>
           </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <router-link to="/add">Add Customer</router-link>
+            </li>
+          </ul>
         </div>
         <!--/.nav-collapse -->
       </div>
